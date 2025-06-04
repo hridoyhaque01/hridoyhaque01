@@ -132,7 +132,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
     alt="Laravel"
     width="40"
     height="40"
