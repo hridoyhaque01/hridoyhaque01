@@ -71,7 +71,7 @@
     height="40"
   />
   <img
-    src="https://vuex.vuejs.org/vuex-logo.png"
+    src="./vuex.svg"
     alt="Vuex"
     width="40"
     height="40"
@@ -82,7 +82,7 @@
     width="40"
     height="40"
   />
-  <img src="https://shadcn.dev/og.jpg" alt="ShadCN" width="40" height="40" />
+  <img src="./shadcn.png" alt="ShadCN" width="40" height="40" />
   <img
     src="https://avatars.githubusercontent.com/u/97094772?s=200&v=4"
     alt="DaisyUI"
@@ -114,7 +114,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/greensock/GSAP/main/logo/logo.svg"
+    src="./gsap.png"
     alt="GSAP"
     width="40"
     height="40"
