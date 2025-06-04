@@ -84,7 +84,7 @@
   />
   <img src="./shadcn.png" alt="ShadCN" width="40" height="40" />
   <img
-    src="https://avatars.githubusercontent.com/u/97094772?s=200&v=4"
+    src="./daisyui.png"
     alt="DaisyUI"
     width="40"
     height="40"
