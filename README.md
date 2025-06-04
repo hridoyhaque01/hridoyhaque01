@@ -108,7 +108,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg"
     alt="Framer Motion"
     width="40"
     height="40"
@@ -132,7 +132,7 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"
     alt="Laravel"
     width="40"
     height="40"
